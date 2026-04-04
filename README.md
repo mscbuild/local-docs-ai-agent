@@ -1,3 +1,6 @@
+[repo]: https://github.com/mscbuild/local-docs-ai-agent/
+[demo]: https://mscbuild.github.io/local-docs-ai-agent/
+
 # 🌟  LocalDocsAI assistant
 
 **A private, local AI assistant for your documents—without sending data to the cloud**
@@ -15,6 +18,7 @@
 
 <img width="1200" height="494" alt="ai agent" src="https://github.com/user-attachments/assets/36affcb3-175a-4f1e-b98d-a5533181ed08" />
 
+##### [ View Live Preview][demo]
 
 # 💡 The gist of the idea
 
